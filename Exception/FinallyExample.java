@@ -1,7 +1,7 @@
 public class FinallyExample {
     public static void main(String[] args) {
         int a = 10;
-        int b = 10; 
+        int b = 10;  
         try {
             if (b == 0) {
                 throw new ArithmeticException("Division by zero is not allowed.");
