@@ -13,7 +13,7 @@
 public class genricClassExample {
     public static void main(String[] args) {
       
-       Box<Integer> exInt = new BOx<>(); // example with Integer type
+       Box<Integer> exInt = new Box<>(); // example with Integer type
         exInt.setvalue(100);
         System.out.println(exInt.getValue()); // prints 100
 
