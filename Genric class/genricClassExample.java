@@ -1,4 +1,4 @@
- class Box<T>{
+ class Box<T>{// T is type of parameter
     private T value;
       T getValue(){//getter method
         return value;
