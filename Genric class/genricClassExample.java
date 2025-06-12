@@ -8,7 +8,6 @@
     }
 
 }
-
 public class genricClassExample {
     public static void main(String[] args) {
       
