@@ -6,10 +6,7 @@
     public void setvalue(T val){//setter method
         value = val;
     }
-
 }
-
-
 public class genricClassExample {
     public static void main(String[] args) {
       
