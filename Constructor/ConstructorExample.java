@@ -1,4 +1,4 @@
-// Class Example to demonstrate constructors
+ // Class Example to demonstrate constructors
 class Example {
     String name; // Instance variable to store the name
     int roll;    // Instance variable to store the roll number
