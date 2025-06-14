@@ -5,7 +5,7 @@ class Example {
 
     // Default constructor (without parameters)
     Example() { 
-        name = "Abhishek"; // Assign default name
+        name = "Abhishek"; // Assign default name 
         roll = 45;         // Assign default roll number 
     }
 
