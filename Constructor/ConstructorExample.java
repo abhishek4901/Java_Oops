@@ -8,7 +8,7 @@ class Example {
         name = "Abhishek"; // Assign default name 
         roll = 45;         // Assign default roll number 
     }
-
+ 
     // Parameterized constructor (with one parameter)
     Example(int r) {
         name = "gaurav"; // Assign default name for this constructor 
