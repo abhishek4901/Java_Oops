@@ -7,11 +7,10 @@ class dthread extends Thread{
             System.out.println(" daemon Thread");
         }
         else {
-            System.out.println(" this is not daemon Thread");
-            
-        }
-         }
-    }
+            System.out.println(" this is not daemon Thread");   
+       }
+     }
+  }
 }
 public class DaemonThreadExamples {
     public static void main(String[] args) {
