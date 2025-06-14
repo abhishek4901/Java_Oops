@@ -16,7 +16,6 @@ class dthread extends Thread{
     }
 }
 
-
 public class DaemonThreadExamples {
     public static void main(String[] args) {
         dthread d1 = new dthread();
