@@ -11,7 +11,7 @@ class Example {
 
     // Parameterized constructor (with one parameter)
     Example(int r) {
-        name = "gaurav"; // Assign default name for this constructor
+        name = "gaurav"; // Assign default name for this constructor 
         roll = r;        // Assign roll number passed as a parameter
     }
 
