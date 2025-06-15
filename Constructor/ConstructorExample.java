@@ -1,17 +1,17 @@
-// Class Example to demonstrate constructors
+ // Class Example to demonstrate constructors
 class Example {
     String name; // Instance variable to store the name
     int roll;    // Instance variable to store the roll number
 
     // Default constructor (without parameters)
     Example() { 
-        name = "Abhishek"; // Assign default name
-        roll = 45;         // Assign default roll number
+        name = "Abhishek"; // Assign default name 
+        roll = 45;         // Assign default roll number 
     }
-
+ 
     // Parameterized constructor (with one parameter)
     Example(int r) {
-        name = "gaurav"; // Assign default name for this constructor
+        name = "gaurav"; // Assign default name for this constructor 
         roll = r;        // Assign roll number passed as a parameter
     }
 
