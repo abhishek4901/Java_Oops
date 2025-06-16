@@ -3,7 +3,6 @@ class Data {
     int a;
     int b;
 }
-
 public class cloneObject {
     public static void main(String[] args) {
         Data d1 = new Data();
