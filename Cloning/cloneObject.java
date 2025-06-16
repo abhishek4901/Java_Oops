@@ -1,4 +1,4 @@
-//shallow copy
+ //shallow copy
 class Data {
     int a;
     int b;
