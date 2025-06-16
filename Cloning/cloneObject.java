@@ -8,7 +8,7 @@ public class cloneObject {
         Data d1 = new Data();
         d1.a = 10;
         d1.b = 20;
-        /* deep copy 
+        /* deep copy  
         Data d3=new Data() ;
         d3.a=d1.a;
          
