@@ -1,7 +1,6 @@
-
 class dthread extends Thread{
     public void run (){ 
-         for (int i = 0; i < 2; i++) {
+         for (int i = 0; i < 1; i++) {
         
         if(Thread.currentThread().isDaemon()){
             System.out.println(" daemon Thread");
@@ -12,13 +11,12 @@ class dthread extends Thread{
      }
   }
 }
-public class DaemonThreadExamples {
+public class Main {
     public static void main(String[] args) {
         dthread d1 = new dthread();
         dthread d2 = new dthread();
         dthread d3 = new dthread();
-        dthread d4 = new dthread();
-
+      
         d1.setDaemon(true);
         d1.start();
         d2.setDaemon(true);
