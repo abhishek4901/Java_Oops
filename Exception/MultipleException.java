@@ -4,7 +4,7 @@ public class MultipleException {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in); // Create Scanner object for input
 
-        try {
+        try { 
             // Prompt user for two integers
             System.out.print("Enter first integer: ");
             int a = Integer.parseInt(sc.nextLine()); 
