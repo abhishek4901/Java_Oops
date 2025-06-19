@@ -7,7 +7,7 @@ public class MultipleException {
         try { 
             // Prompt user for two integers
             System.out.print("Enter first integer: ");
-            int a = Integer.parseInt(sc.nextLine()); 
+            int a = Integer.parseInt(sc.nextLine());  
             System.out.print("Enter second integer: ");
             int b = Integer.parseInt(sc.nextLine()); 
           
