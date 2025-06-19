@@ -3,7 +3,7 @@ import java.util.Scanner; // Import Scanner for input
 public class MultipleException {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in); // Create Scanner object for input
-
+ 
         try { 
             // Prompt user for two integers
             System.out.print("Enter first integer: ");
