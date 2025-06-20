@@ -4,7 +4,7 @@ class Example {
     int roll;    // Instance variable to store the roll number
 
     // Default constructor (without parameters)
-    Example() { 
+    Example() {  
         name = "Abhishek"; // Assign default name
         roll = 45;         // Assign default roll number
     }
