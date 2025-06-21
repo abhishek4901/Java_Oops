@@ -16,3 +16,4 @@ public class cloneObject {
         System.out.println(d1.a); // prints 50
         System.out.println(d2.a);
     }}
+ 
