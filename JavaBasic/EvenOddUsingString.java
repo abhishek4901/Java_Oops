@@ -4,5 +4,5 @@ class EvenOddUsingString{
         int n = 90;
         String [] result = {"Even","Odd"};
         System.out.println(result[n%2]);
-    }
+    } 
 }
