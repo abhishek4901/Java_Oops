@@ -3,7 +3,7 @@ public class FinallyExample {
         int a = 10;
         int b = 10;  
         try {
-            if (b == 0) {
+            if (b == 0) { 
                 throw new ArithmeticException("Division by zero is not allowed.");
             }
             int c = a / b;
