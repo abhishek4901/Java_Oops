@@ -3,7 +3,7 @@ class Example {
     String name; // Instance variable to store the name
     int roll;    // Instance variable to store the roll number
 
-    // Default constructor (without parameters)   
+    // Default constructor (without parameters)    
     Example() {      
         name = "Abhishek"; // Assign default name   
         roll = 45;         // Assign default roll number  
