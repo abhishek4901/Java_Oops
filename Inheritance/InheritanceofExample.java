@@ -4,7 +4,7 @@ class Animal {
     void eat() {
         System.err.println("Animal eats"); 
     }
-} 
+}  
 class Dog extends Animal {
 
     void bark() {
