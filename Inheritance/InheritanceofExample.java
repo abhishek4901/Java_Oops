@@ -1,4 +1,4 @@
-
+ 
 class Animal {
 
     void eat() {
