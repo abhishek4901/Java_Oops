@@ -3,7 +3,7 @@ class Data {
 
     int value;
     boolean flag = false;
-
+ 
     synchronized void produce(int value) {
         while (flag) {
             try {
