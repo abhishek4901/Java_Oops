@@ -5,7 +5,7 @@ class Data {
     boolean flag = false;
  
     synchronized void produce(int value) { 
-        while (flag) {
+        while (flag) { 
             try { 
                 wait();
             } catch (Exception e) {
