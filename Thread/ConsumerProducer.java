@@ -6,7 +6,7 @@ class Data {
  
     synchronized void produce(int value) { 
         while (flag) {
-            try {
+            try { 
                 wait();
             } catch (Exception e) {
                 System.out.println(e);
