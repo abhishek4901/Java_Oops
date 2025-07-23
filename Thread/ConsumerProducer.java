@@ -1,7 +1,7 @@
 
 class Data {
 
-    int value;
+    int value; 
     boolean flag = false;
  
     synchronized void produce(int value) { 
