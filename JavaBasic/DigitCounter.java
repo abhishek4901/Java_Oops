@@ -7,7 +7,7 @@ public class DigitCounter {
         int n = sc.nextInt();
 
         if (n == 0) {
-            System.out.println("Number of digits: 1");
+            System.out.println("Number of digits: 1"); 
         } else if (n > 0) {
             int digits = (int) Math.log10(n) + 1;
             System.out.println("Number of digits: " + digits);
