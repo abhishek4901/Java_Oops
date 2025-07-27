@@ -7,7 +7,7 @@ class Animal {
 }  
 class Dog extends Animal {
 
-    void bark() {
+    void bark() { 
         System.err.println("Dog barks (this single inheritances)");
         
     }
