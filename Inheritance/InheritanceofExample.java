@@ -1,7 +1,7 @@
   
 class Animal {
 
-    void eat() {
+    void eat() { 
         System.err.println("Animal eats"); 
     }
 }   
