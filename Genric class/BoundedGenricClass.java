@@ -6,7 +6,7 @@
     public void setvalue(T value){//setter method
         this.value = value;
     }
-
+ 
 }
     public class BoundedGenricClass {
         
