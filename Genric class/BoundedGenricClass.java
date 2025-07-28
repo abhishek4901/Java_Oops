@@ -4,7 +4,7 @@
         return value;
     }
     public void setvalue(T value){//setter method
-        this.value = value;
+        this.value = value; 
     }  
  
 }
