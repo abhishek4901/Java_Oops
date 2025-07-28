@@ -16,10 +16,10 @@ class B extends Thread {
 
 public class MultiThreading {
     public static void main(String[] args) {
-        A thread1 = new A(); // Thread 1
-        B thread2 = new B(); // Thread 2
+        A t1 = new A(); // Thread 1
+        B t2 = new B(); // Thread 2
 
-        thread1.start(); // Start Thread 1
-        thread2.start(); // Start Thread 2
+        t1.start(); // Start Thread 1
+        t2.start(); // Start Thread 2
     }
 }
