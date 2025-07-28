@@ -7,7 +7,7 @@ public class cloneObject {
      
             Data d1 = new Data();
             d1.a = 10;
-            // ✅ Object cloning: d2 is a copy of d1
+            // ✅ Object cloning: d2 is a copy of d1 
              Data d2 = d1;
 
             // Modify original and cloned objects separately
