@@ -4,7 +4,7 @@ class AgeException extends Exception {
          super(message);
     } 
 }  
- 
+  
 class Test {
 
     void checkEligibility(int age) throws AgeException {
