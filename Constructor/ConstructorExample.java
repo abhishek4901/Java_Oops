@@ -1,7 +1,7 @@
  // Class Example to demonstrate constructors
 class Example {
     String name; // Instance variable to store the name
-    int roll;    // Instance variable to store the roll number
+    int roll;    //Instance variable to store the roll number
 
     // Default constructor (without parameters)
     Example() { 
